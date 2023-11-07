@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/csi-26-atividade8-react/static/css/main.83f95567.css",
+    "main.js": "/csi-26-atividade8-react/static/js/main.0d347e07.js",
+    "index.html": "/csi-26-atividade8-react/index.html",
+    "main.83f95567.css.map": "/csi-26-atividade8-react/static/css/main.83f95567.css.map",
+    "main.0d347e07.js.map": "/csi-26-atividade8-react/static/js/main.0d347e07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83f95567.css",
+    "static/js/main.0d347e07.js"
+  ]
+}
